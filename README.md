@@ -38,11 +38,12 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
  		
  	Github: [https://github.com/minelabwot/phmlearn](https://github.com/minelabwot/phmlearn)
  	
+ 	<!--
  	Wechat MiniApp: 
  	
  	
  	<left><img src="./pics/phmlearn_wechat.png" width = "20%" height = "20%"/></left>
- 	
+ 	!-->
  	
   
 * **DGTL-Net: A Deep Generated Transfer Learning Network for Zero-Fault Diagnostics**
