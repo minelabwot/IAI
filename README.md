@@ -29,14 +29,14 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 
 
 # Projects
+
 ## [Ongoing]
 * **OpenPdM: An Open Platform for Predictive Maintenance**
-
- 	Website: [http://www.phmlearn.com](www.phmlearn.com)
- 				
- 	Github: [https://github.com/minelabwot/phmlearn](https://github.com/minelabwot/phmlearn)
- 	 	
-  
+	
+	Website: [http://www.phmlearn.com](http://www.phmlearn.com)
+	
+	Github: [https://github.com/minelabwot/phmlearn](https://github.com/minelabwot/phmlearn)
+	
 * **DGTL-Net: A Deep Generated Transfer Learning Network for Zero-Fault Diagnostics**
 
 	Github: [links]()
