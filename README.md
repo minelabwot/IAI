@@ -24,21 +24,23 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 
 # Projects
 ## [Ongoing]
-* <h3>OpenPdM: An Open Platform for Predictive Mainteanance</h3>
+* **OpenPdM: An Open Platform for Predictive Mainteanance**
  
  	Website: [http://www.phmlearn.com](www.phmlearn.com)
  	
  	Github: [https://github.com/minelabwot/phmlearn](https://github.com/minelabwot/phmlearn)
  	
- 	Wechat MiniApp: <center><img src="./pics/phmlearn_wechat.png" width = "20%" height = "20%"/></center>
+ 	Wechat MiniApp: 
+ 	
+ 	<center><img src="./pics/phmlearn_wechat.png" width = "20%" height = "20%"/></center>
   
-* <h3>DGTL-Net: A Deep Generated Transfer Learning Network for Zero-Fault Diagnositcs</h3>
+* **DGTL-Net: A Deep Generated Transfer Learning Network for Zero-Fault Diagnositcs**
 
 	Github: [links]()
 	
 	Datasets: [https://github.com/minelabwot/lxm.hard-drive-test-data](https://github.com/minelabwot/lxm.hard-drive-test-data)
 	
-* <h3>TrImba-Net</h3>
+* **TrImba-Net**
 
 	Github: [links]()
 	
@@ -47,7 +49,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 
 
 ## [Finished]
-* <h3>Assessment and Prediction of Microservice Health Based on Call Chain and Machine Learning</h3>
+* **Assessment and Prediction of Microservice Health Based on Call Chain and Machine Learning**
 	
 	Intro: cooperated by Huawei HIRP
 	
@@ -56,14 +58,14 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 	Datasets: [links]()
 	
 	
-* <h3>OneM2M</h3>
+* **OneM2M**
 
 	Github: [links]()
 	
 	Datasets: [links]()	
 	
 	
-* <h3>Web of Things</h3>
+* **Web of Things**
 	
 	Intro: cooperated by Huawei
 	
@@ -71,7 +73,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 	
 	Datasets: [links]()
 	
-* <h3>Sino-Finland Livinglab for Smart Design</h3>
+* **Sino-Finland Livinglab for Smart Design**
 	
 	Intro: cooperated by Huawei
 	
