@@ -22,6 +22,12 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 
   2015: Yunong Yang (杨雨浓/阿里-Alibaba), Hao Luo (罗昊/美团-Meituan), Yang Guo (郭洋/头条-Tou tiao)
 
+# Courses
+* 《[Introduction to Information and Communication Engineering](https://oursparkspace.cn/?yada_wiki=导论实验课)》, Autumn Semester
+* 《[Mobile Internet Application Development Circulum](https://oursparkspace.cn/?yada_wiki=1497242106-3)》, Spring Semester
+
+
+
 # Projects
 ## [Ongoing]
 * **OpenPdM: An Open Platform for Predictive Mainteanance**
