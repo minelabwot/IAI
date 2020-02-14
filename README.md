@@ -6,7 +6,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 # Members
 * **Principle Investigator**
 
-  Dr. Zhenyu Wu ([吴振宇](https://zhenyuwu.github.io)), Associae Professor
+  Dr. Zhenyu Wu ([吴振宇](https://zhenyuwu.github.io)), Associate Professor
 
 * **Master Students**
 
