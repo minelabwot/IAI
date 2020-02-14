@@ -14,7 +14,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
   
   2018: Hongkui Zhang (张洪魁), Binghao Fu (付炳豪), Chang Shi (施畅), Menglei Zang (臧梦磊), Danyang Jiao (焦丹阳)
 
-  2019: Juchuang Guo (郭聚川), Xiaomeng Lv (吕潇萌)
+  2019: Juchuan Guo (郭聚川), Xiaomeng Lv (吕潇萌)
 
 * **Alumni**
   
@@ -30,7 +30,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 
 # Projects
 ## [Ongoing]
-* **OpenPdM: An Open Platform for Predictive Mainteanance**
+* **OpenPdM: An Open Platform for Predictive Maintenance**
 
  	Website: [http://www.phmlearn.com](www.phmlearn.com)
  		
@@ -41,7 +41,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
  	<center><img src="./pics/phmlearn_wechat.png" width = "20%" height = "20%"/></center>
  	
   
-* **DGTL-Net: A Deep Generated Transfer Learning Network for Zero-Fault Diagnositcs**
+* **DGTL-Net: A Deep Generated Transfer Learning Network for Zero-Fault Diagnostics**
 
 	Github: [links]()
 	
