@@ -63,6 +63,8 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 	
 * **OneM2M**
 
+	Intro: sponsored by MOST of China
+	
 	Github: [links]()
 	
 	Datasets: [links]()	
@@ -70,7 +72,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 	
 * **Web of Things**
 	
-	Intro: cooperated by Huawei
+	Intro: sponsored by MOST of China
 	
 	Github: [links]()
 	
@@ -78,7 +80,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 	
 * **Sino-Finland Livinglab for Smart Design**
 	
-	Intro: cooperated by Huawei
+	Intro: sponsored by MOST of China
 	
 	Github: [links]()
 	
@@ -87,13 +89,13 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 # Publications
 ## [Journal]
 
-* Zhenyu Wu; Wenfang Lin; Yang Ji; Michael Pecht, “A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems,” IEEE Transactions on Reliability, 2019.12. (2区，IF2.888)
-* Zhenyu Wu; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions, IEEE Access, 2019.9. (2区，IF4.098)
-* Z. Wu et al., K-PdM: KPI-oriented Machinery Deterioration Estimation Framework for Predictive Maintenance using Cluster-based Hidden Markov Model,"in IEEE ACCESS, 2018.7. (2区，IF3.577)
-* Zhenyu Wu; Wenfang Lin; Yang Ji, An Integrated Ensemble Learning Model for Imbalanced Fault Diagnostics and Prognostics, IEEE ACCESS, 2018.2.19, PP(99): 1~1 (2区，IF3.577)
-* Wu, Z.; Guo, Y.; Lin, W.; Yu, S.; Ji, Y. A Weighted Deep Representation Learning Model for Imbalanced Fault Diagnosis in Cyber-Physical Systems. Sensors 2018, 18, 1096.  (2区，IF2.677)
-* Zhenyu Wu ; Yuan Xu; Yunong Yang; Chunhong Zhang; Xinning Zhu; Yang Ji, Towards a Semantic Web of Things: A Hybrid Semantic Annotation, Extraction, and Reasoning Framework for Cyber-Physical System, Sensors, 2017.2 .20, 2017(2)  (2区，IF2.677)
-* Wu, Zhenyu ; Itala, Timo; Tang, Tingan; Zhang, Chunhong; Ji, Yang; Hamalainen, Matti; Liu, Yunjie, A web-based two-layered integration framework for smart devices , EURASIP Journal on Wireless Communications and Networking, 2012, 1  (4区，IF2.407)
+* Zhenyu Wu; Wenfang Lin; Yang Ji; Michael Pecht, “A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems,” IEEE Transactions on Reliability, 2019.12.
+* Zhenyu Wu; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions, IEEE Access, 2019.9.
+* Z. Wu et al., K-PdM: KPI-oriented Machinery Deterioration Estimation Framework for Predictive Maintenance using Cluster-based Hidden Markov Model,"in IEEE ACCESS, 2018.7.
+* Zhenyu Wu; Wenfang Lin; Yang Ji, An Integrated Ensemble Learning Model for Imbalanced Fault Diagnostics and Prognostics, IEEE ACCESS, 2018.2.19, PP(99): 1~1
+* Wu, Z.; Guo, Y.; Lin, W.; Yu, S.; Ji, Y. A Weighted Deep Representation Learning Model for Imbalanced Fault Diagnosis in Cyber-Physical Systems. Sensors 2018, 18, 1096.
+* Zhenyu Wu ; Yuan Xu; Yunong Yang; Chunhong Zhang; Xinning Zhu; Yang Ji, Towards a Semantic Web of Things: A Hybrid Semantic Annotation, Extraction, and Reasoning Framework for Cyber-Physical System, Sensors, 2017.2 .20, 2017(2)
+* Wu, Zhenyu ; Itala, Timo; Tang, Tingan; Zhang, Chunhong; Ji, Yang; Hamalainen, Matti; Liu, Yunjie, A web-based two-layered integration framework for smart devices , EURASIP Journal on Wireless Communications and Networking, 2012
 * 吴振宇; 杨雨浓; 朱新宁, 面向智能诊断的语义物联网知识标注与推理框架, 北京邮电大学学报, 2017.10.13, (04): 1~6
 
 ## [Conference] 
