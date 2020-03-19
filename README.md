@@ -39,7 +39,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 	
 * **DGTL-Net: A Deep Generative Transfer Learning Network for Zero-Fault Diagnostics**
 
-	Github: [links]()
+	Github: [https://github.com/minelabwot/DGTL-Net](https://github.com/minelabwot/DGTL-Net)
 	
 	Datasets: [https://github.com/minelabwot/lxm.hard-drive-test-data](https://github.com/minelabwot/lxm.hard-drive-test-data)
 	
