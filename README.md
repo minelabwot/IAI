@@ -45,7 +45,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 	
 * **ImbalanceTransfer**
 
-	Github: [https://github.com/minelabwot/ImbalanceTransfer](**https://github.com/minelabwot/ImbalanceTransfer**)
+	Github: [https://github.com/minelabwot/ImbalanceTransfer](https://github.com/minelabwot/ImbalanceTransfer)
 	
 	Datasets: [CWRU](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website), [Paderborn](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/), [XJTU-SY Bearing Datasets](https://mekhub.cn/machine-diagnosis/XJTU-SY_Bearing_Datasets), [SEU](https://github.com/cathysiyu/Mechanical-datasets)
 	
