@@ -43,46 +43,31 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 	
 	Datasets: [https://github.com/minelabwot/lxm.hard-drive-test-data](https://github.com/minelabwot/lxm.hard-drive-test-data)
 	
-* **TrImba-Net**
+* **ImbalanceTransfer**
 
-	Github: [links]()
+	Github: [https://github.com/minelabwot/ImbalanceTransfer](**https://github.com/minelabwot/ImbalanceTransfer**)
 	
-	Datasets: [links]()
+	Datasets: [CWRU](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website), [Paderborn](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/), [XJTU-SY Bearing Datasets](https://mekhub.cn/machine-diagnosis/XJTU-SY_Bearing_Datasets), [SEU](https://github.com/cathysiyu/Mechanical-datasets)
 	
 
 
 ## [Finished]
 * **Assessment and Prediction of Microservice Health Based on Call Chain and Machine Learning**
 	
-	Intro: cooperated by Huawei HIRP
-	
-	Github: [links]()
-	
-	Datasets: [links]()
+	Intro: sponsored by Huawei HIRP
 	
 * **OneM2M**
 
 	Intro: sponsored by MOST of China
 	
-	Github: [links]()
-	
-	Datasets: [links]()	
-	
-* **Web of Things**
+* **Web of Things** **Framework**
 	
 	Intro: sponsored by MOST of China
 	
-	Github: [links]()
-	
-	Datasets: [links]()
-	
-* **Sino-Finland Livinglab for Smart Design**
+* **Sino-Finland Livinglab Platform for Smart Design**
 	
 	Intro: sponsored by MOST of China
 	
-	Github: [links]()
-	
-	Datasets: [links]()
 
 # Publications
 ## [Journal]
