@@ -37,7 +37,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 	
 	Github: [https://github.com/minelabwot/phmlearn](https://github.com/minelabwot/phmlearn)
 	
-* **DGTL-Net: A Deep Generated Transfer Learning Network for Zero-Fault Diagnostics**
+* **DGTL-Net: A Deep Generative Transfer Learning Network for Zero-Fault Diagnostics**
 
 	Github: [links]()
 	
@@ -60,7 +60,6 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 	
 	Datasets: [links]()
 	
-	
 * **OneM2M**
 
 	Intro: sponsored by MOST of China
@@ -68,7 +67,6 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 	Github: [links]()
 	
 	Datasets: [links]()	
-	
 	
 * **Web of Things**
 	
