@@ -16,7 +16,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 
   2019: Juchuan Guo (郭聚川), Xiaomeng Lv (吕潇萌)
   
-  2020: Yicheng Liu (刘亦辰), Lixin Hou (侯力新), Hao Chen (陈浩)
+  2020: Yicheng Liu (刘奕辰), Lixin Hou (侯力新), Hao Chen (陈浩)
 
 * **Alumni**
   
@@ -52,6 +52,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 
 
 * **Intelligent Fault Diagnostics for IP Network**
+	
 	To be appear soon	
 
 
