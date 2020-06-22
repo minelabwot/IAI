@@ -15,6 +15,8 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
   2018: Hongkui Zhang (张洪魁), Binghao Fu (付炳豪), Chang Shi (施畅), Menglei Zang (臧梦磊), Danyang Jiao (焦丹阳)
 
   2019: Juchuan Guo (郭聚川), Xiaomeng Lv (吕潇萌)
+  
+  2020: Yicheng Liu (刘亦辰), Lixin Hou (侯力新), Hao Chen (陈浩)
 
 * **Alumni**
   
@@ -37,7 +39,16 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 	
 	Github: [https://github.com/minelabwot/phmlearn](https://github.com/minelabwot/phmlearn)
 	
+<<<<<<< Updated upstream
 * **DGTL-Net: A Deep Generative Transfer Learning Network for Zero-Fault Diagnostics**
+=======
+<<<<<<< HEAD
+	
+* **DGTL-Net: A Deep Generated Transfer Learning Network for Zero-Fault Diagnostics**
+=======
+* **DGTL-Net: A Deep Generative Transfer Learning Network for Zero-Fault Diagnostics**
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 
 	Github: [https://github.com/minelabwot/DGTL-Net](https://github.com/minelabwot/DGTL-Net)
 	
@@ -47,8 +58,19 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 
 	Github: [https://github.com/minelabwot/ImbalanceTransfer](https://github.com/minelabwot/ImbalanceTransfer)
 	
+<<<<<<< Updated upstream
 	Datasets: [CWRU](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website), [Paderborn](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/), [XJTU-SY Bearing Datasets](https://mekhub.cn/machine-diagnosis/XJTU-SY_Bearing_Datasets), [SEU](https://github.com/cathysiyu/Mechanical-datasets)
+=======
+<<<<<<< HEAD
+	Datasets: [links]()
+
+* **Intelligent Fault Diagnostics for IP Network**
+=======
+	Datasets: [CWRU](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website), [Paderborn](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/), [XJTU-SY Bearing Datasets](https://mekhub.cn/machine-diagnosis/XJTU-SY_Bearing_Datasets), [SEU](https://github.com/cathysiyu/Mechanical-datasets)
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 	
+	To be appear soon	
 
 
 ## [Finished]
