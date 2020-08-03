@@ -52,6 +52,10 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 * **Intelligent Fault Diagnostics for 5G Bearing Network**
 	
 	To be appear soon	
+	
+* **Industrial AI Optimization System for Indusitral Internet**
+	
+	To be appear soon	
 
 
 ## [Finished]
