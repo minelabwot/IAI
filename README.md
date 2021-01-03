@@ -9,8 +9,6 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
   Dr. Zhenyu Wu ([吴振宇](https://zhenyuwu.github.io)), Associate Professor
 
 * **Master Students**
-
-  2017: Shuyang Yu (于舒扬)
   
   2018: Hongkui Zhang (张洪魁), Binghao Fu (付炳豪), Chang Shi (施畅), Menglei Zang (臧梦磊), Danyang Jiao (焦丹阳)
 
@@ -19,6 +17,8 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
   2020: Yicheng Liu (刘奕辰), Lixin Hou (侯力新), Hao Chen (陈浩)
 
 * **Alumni**
+  
+  2017: Shuyang Yu (于舒扬/搜狐-Sohu)
   
   2016: Wenfang Lin (林文芳/阿里-Alibaba), Peng Lv (吕鹏/头条-Toutiao)
 
@@ -49,9 +49,11 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 
 	Github: [https://github.com/minelabwot/ImbalanceTransfer](https://github.com/minelabwot/ImbalanceTransfer)
 	
-
-
-* **Intelligent Fault Diagnostics for IP Network**
+* **Intelligent Fault Diagnostics for 5G Bearing Network**
+	
+	To be appear soon	
+	
+* **Industrial AI Optimization System for Indusitral Internet**
 	
 	To be appear soon	
 
@@ -87,6 +89,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 * 吴振宇; 杨雨浓; 朱新宁, 面向智能诊断的语义物联网知识标注与推理框架, 北京邮电大学学报, 2017.10.13, (04): 1~6
 
 ## [Conference] 
+* Binghao Fu; Zhenyu Wu; Juchuan Guo, Remaining Useful Life Prediction under Multiple Operation Conditions based on Domain Adaptive Sparse Auto-Encoder, 2020 ICPHM, 2020.6. (TBA)
 * Shuyang Yu; Zhenyu Wu; Xinning Zhu; Michael Pecht, A Domain Adaptive Convolutional LSTM Model for Prognostic Remaining Useful Life Estimation under Variant Conditions, 2019 Prognostics and System Health Management Conference, 2019.5.2-2019.5.4
 * Zhenyu Wu; Hao Luo; Yunong Yang; Xinning Zhu; Xiaofeng Qiu, An Unsupervised Degradation Estimation Framework for Diagnostics and Prognostics in Cyber-Physical System, 2018 IEEE WF-IoT, 2018.2.5-2018.2.8
 * Hao Luo; Zhenyu Wu; Xinning Zhu, A Cluster-Based Hidden Markov Model for High-level State Discovery from Time Series, 2017 International Conference on Big Data Computing and Communications, 2017.8.10-2017.8.11
