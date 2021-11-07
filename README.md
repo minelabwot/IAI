@@ -9,16 +9,17 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
   Dr. Zhenyu Wu ([吴振宇](https://zhenyuwu.github.io)), Associate Professor
 
 * **Master Students**
-  
-  2018: Hongkui Zhang (张洪魁), Binghao Fu (付炳豪), Chang Shi (施畅), Menglei Zang (臧梦磊), Danyang Jiao (焦丹阳)
 
   2019: Juchuan Guo (郭聚川), Xiaomeng Lv (吕潇萌)
   
   2020: Yicheng Liu (刘奕辰), Lixin Hou (侯力新), Hao Chen (陈浩)
   
-  2021: Longfei Chen (陈龙飞), Linjie Li (李麟杰)
+  2021: Longfei Chen (陈龙飞), Linjie Li (李麟杰), Zhuoxin Chen（陈卓新）, Zhongbao Ma（马忠宝）, Zhichun Zhang（张智淳）  
+  2022: Banghao Xu（徐邦豪）
 
 * **Alumni**
+ 
+  2018: Hongkui Zhang (张洪魁/招商银行), Binghao Fu (付炳豪/读博), Chang Shi (施畅/阿里), Menglei Zang (臧梦磊/头条), Danyang Jiao (焦丹阳/中国电信)
   
   2017: Shuyang Yu (于舒扬/搜狐-Sohu)
   
@@ -59,6 +60,15 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 	
 	To be appear soon	
 
+* **5G+Intelligent Manufacture**
+	
+	To be appear soon	
+	
+* **Intelligent Fault Diagnosis Method for Imbalance Industrial Big Data under Variant Working Conditions**
+	
+	To be appear soon	
+
+
 
 ## [Finished]
 * **Assessment and Prediction of Microservice Health Based on Call Chain and Machine Learning**
@@ -81,15 +91,16 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 # Publications
 ## [Journal]
 
-* Chang Shi; Zhenyu Wu; Xiaomeng Lv; Yang Ji, DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks, Expert Systems with Applications, Expert Systems with Applications, 2021.6 
-* Zhenyu Wu; Wenfang Lin; Yang Ji; Michael Pecht, “A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems,” IEEE Transactions on Reliability, 2020.12.
-* Zhenyu Wu; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions, IEEE Access, 2019.9.
+* Chang Shi; Zhenyu Wu*; Xiaomeng Lv; Yang Ji, DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks, Expert Systems with Applications, Expert Systems with Applications, 2021.6 
+* 吴振宇; 施畅*, 敏捷化AIOps框架及运维数据质量评估方法，北京邮电大学学报, 2021.6
+* Zhenyu Wu;* Wenfang Lin; Yang Ji; Michael Pecht, “A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems,” IEEE Transactions on Reliability, 2020.12.
+* Zhenyu Wu*; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions, IEEE Access, 2019.9.
 * Z. Wu et al., K-PdM: KPI-oriented Machinery Deterioration Estimation Framework for Predictive Maintenance using Cluster-based Hidden Markov Model,"in IEEE ACCESS, 2018.7.
-* Zhenyu Wu; Wenfang Lin; Yang Ji, An Integrated Ensemble Learning Model for Imbalanced Fault Diagnostics and Prognostics, IEEE ACCESS, 2018.2.19, PP(99): 1~1
-* Wu, Z.; Guo, Y.; Lin, W.; Yu, S.; Ji, Y. A Weighted Deep Representation Learning Model for Imbalanced Fault Diagnosis in Cyber-Physical Systems. Sensors 2018, 18, 1096.
-* Zhenyu Wu ; Yuan Xu; Yunong Yang; Chunhong Zhang; Xinning Zhu; Yang Ji, Towards a Semantic Web of Things: A Hybrid Semantic Annotation, Extraction, and Reasoning Framework for Cyber-Physical System, Sensors, 2017.2 .20, 2017(2)
-* Wu, Zhenyu ; Itala, Timo; Tang, Tingan; Zhang, Chunhong; Ji, Yang; Hamalainen, Matti; Liu, Yunjie, A web-based two-layered integration framework for smart devices , EURASIP Journal on Wireless Communications and Networking, 2012
-* 吴振宇; 杨雨浓; 朱新宁, 面向智能诊断的语义物联网知识标注与推理框架, 北京邮电大学学报, 2017.10.13, (04): 1~6
+* Zhenyu Wu*; Wenfang Lin; Yang Ji, An Integrated Ensemble Learning Model for Imbalanced Fault Diagnostics and Prognostics, IEEE ACCESS, 2018.2.19, PP(99): 1~1
+* Wu, Z.*; Guo, Y.; Lin, W.; Yu, S.; Ji, Y. A Weighted Deep Representation Learning Model for Imbalanced Fault Diagnosis in Cyber-Physical Systems. Sensors 2018, 18, 1096.
+* Zhenyu Wu*; Yuan Xu; Yunong Yang; Chunhong Zhang; Xinning Zhu; Yang Ji, Towards a Semantic Web of Things: A Hybrid Semantic Annotation, Extraction, and Reasoning Framework for Cyber-Physical System, Sensors, 2017.2 .20, 2017(2)
+* Wu, Zhenyu*; Itala, Timo; Tang, Tingan; Zhang, Chunhong; Ji, Yang; Hamalainen, Matti; Liu, Yunjie, A web-based two-layered integration framework for smart devices , EURASIP Journal on Wireless Communications and Networking, 2012
+* 吴振宇*; 杨雨浓; 朱新宁, 面向智能诊断的语义物联网知识标注与推理框架, 北京邮电大学学报, 2017.10.13, (04): 1~6
 
 ## [Conference] 
 * Binghao Fu; Zhenyu Wu; Juchuan Guo, Remaining Useful Life Prediction under Multiple Operation Conditions based on Domain Adaptive Sparse Auto-Encoder, 2020 ICPHM, 2020.6.
