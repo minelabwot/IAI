@@ -14,7 +14,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
   
   2020: Yicheng Liu (刘奕辰), Lixin Hou (侯力新), Hao Chen (陈浩)
   
-  2021: Longfei Chen (陈龙飞), Linjie Li (李麟杰), Zhuoxin Chen（陈卓新）, Zhongbao Ma（马忠宝）, Zhichun Zhang（张智淳）  
+  2021: Longfei Chen (陈龙飞), Linjie Li (李麟杰), Zhuoxin Chen（陈卓新）, Zhongbao Ma（马忠宝）, Zhichun Zhang（张智淳）,  JIalin Guo（郭珈麟）
   2022: Banghao Xu（徐邦豪）
 
 * **Alumni**
