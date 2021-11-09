@@ -14,7 +14,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
   
   2020: Yicheng Liu (刘奕辰), Lixin Hou (侯力新), Hao Chen (陈浩)
   
-  2021: Longfei Chen (陈龙飞), Linjie Li (李麟杰), Zhuoxin Chen（陈卓新）, Zhongbao Ma（马忠宝）, Zhichun Zhang（张智淳）,  JIalin Guo（郭珈麟）
+  2021: Longfei Chen (陈龙飞), Linjie Li (李麟杰), Zhuoxin Chen（陈卓新）, Zhongbao Ma（马忠宝）, Zhichun Zhang（张智淳）,  Jialin Guo（郭珈麟）
   
   2022: Banghao Xu（徐邦豪）
 
@@ -94,7 +94,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 
 * Chang Shi; Zhenyu Wu*; Xiaomeng Lv; Yang Ji, DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks, Expert Systems with Applications, Expert Systems with Applications, 2021.6 
 * 吴振宇; 施畅*, 敏捷化AIOps框架及运维数据质量评估方法，北京邮电大学学报, 2021.6
-* Zhenyu Wu;* Wenfang Lin; Yang Ji; Michael Pecht, “A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems,” IEEE Transactions on Reliability, 2020.12.
+* Zhenyu Wu*; Wenfang Lin; Yang Ji; Michael Pecht, “A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems,” IEEE Transactions on Reliability, 2020.12.
 * Zhenyu Wu*; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions, IEEE Access, 2019.9.
 * Z. Wu et al., K-PdM: KPI-oriented Machinery Deterioration Estimation Framework for Predictive Maintenance using Cluster-based Hidden Markov Model,"in IEEE ACCESS, 2018.7.
 * Zhenyu Wu*; Wenfang Lin; Yang Ji, An Integrated Ensemble Learning Model for Imbalanced Fault Diagnostics and Prognostics, IEEE ACCESS, 2018.2.19, PP(99): 1~1
