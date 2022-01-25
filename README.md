@@ -15,8 +15,9 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
   2020: Yicheng Liu (刘奕辰), Lixin Hou (侯力新), Hao Chen (陈浩)
   
   2021: Longfei Chen (陈龙飞), Linjie Li (李麟杰), Zhuoxin Chen（陈卓新）, Zhongbao Ma（马忠宝）, Zhichun Zhang（张智淳）,  Jialin Guo（郭珈麟）
-  
+   
   2022: Banghao Xu（徐邦豪）
+  
 
 * **Alumni**
  
@@ -92,7 +93,8 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 # Publications
 ## [Journal]
 
-* Chang Shi; Zhenyu Wu*; Xiaomeng Lv; Yang Ji, DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks, Expert Systems with Applications, Expert Systems with Applications, 2021.6 
+* Zhenyu Wu*; Hongkui Zhang; Juchuan Guo; Yang Ji; Michael Pecht, Imbalanced Bearing Fault Diagnosis under Variant Working Conditions using Cost-Sensitive Deep Domain Adaptation Network, Expert Systems with Applications, 2022.5
+* Chang Shi; Zhenyu Wu*; Xiaomeng Lv; Yang Ji, DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks, Expert Systems with Applications, 2021.6 
 * 吴振宇; 施畅*, 敏捷化AIOps框架及运维数据质量评估方法，北京邮电大学学报, 2021.6
 * Zhenyu Wu*; Wenfang Lin; Yang Ji; Michael Pecht, “A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems,” IEEE Transactions on Reliability, 2020.12.
 * Zhenyu Wu*; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions, IEEE Access, 2019.9.
@@ -104,6 +106,7 @@ The group focuses on _**AI for Industrial 4.0**_, especially on _**data-driven P
 * 吴振宇*; 杨雨浓; 朱新宁, 面向智能诊断的语义物联网知识标注与推理框架, 北京邮电大学学报, 2017.10.13, (04): 1~6
 
 ## [Conference] 
+* Juchuang Guo; Yichen Liu; Zhenyu Wu, Decoupling Deep Domain Adaptation Method for Class-Imbalanced Learning with Domain Discrepancy, In proceedings of 2021 IC-NIDC, 2021.11
 * Binghao Fu; Zhenyu Wu; Juchuan Guo, Remaining Useful Life Prediction under Multiple Operation Conditions based on Domain Adaptive Sparse Auto-Encoder, 2020 ICPHM, 2020.6.
 * Shuyang Yu; Zhenyu Wu; Xinning Zhu; Michael Pecht, A Domain Adaptive Convolutional LSTM Model for Prognostic Remaining Useful Life Estimation under Variant Conditions, 2019 Prognostics and System Health Management Conference, 2019.5.2-2019.5.4
 * Zhenyu Wu; Hao Luo; Yunong Yang; Xinning Zhu; Xiaofeng Qiu, An Unsupervised Degradation Estimation Framework for Diagnostics and Prognostics in Cyber-Physical System, 2018 IEEE WF-IoT, 2018.2.5-2018.2.8
